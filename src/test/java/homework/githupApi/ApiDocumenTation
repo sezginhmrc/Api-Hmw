@@ -1,0 +1,4 @@
+
+ 1. All API access is over HTTPS, and accessed from https://api.github.com. All data is sent and received as JSON.
+
+ 2. per_page = 100  (to setup page as supposed shown 100 repository)
